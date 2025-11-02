@@ -20,8 +20,6 @@
 
 This project implements a functional assembler for the Hack machine language. Hack is a fully functional machine language coding the Hack computer. For full specification check <a href="[#readme-top](https://www.nand2tetris.org/software)">Nand2Tetris</a> website.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -64,7 +62,6 @@ Generated binary is statically linked, so you can move it anywhere as you like.
   mv ./hassembler /usr/bin
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
